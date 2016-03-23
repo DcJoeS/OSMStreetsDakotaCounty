@@ -5,6 +5,8 @@ Street Centerlines extracted from the Dakota County database that do not interse
 3. Exported to a shapefile with appropriate keys and values for OSM.
 4. Using JOSM, I opened the shp and saved it as OSM.
 
+Let me know if anything is wonky.
+
 Happy download and edit.
 
 ## Downloads
