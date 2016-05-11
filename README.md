@@ -1,6 +1,6 @@
 # OSMStreetsDakotaCounty
 Street Centerlines extracted from the Dakota County database that do not intersect existing OSM streets.
-1. Select streets that intersect with an extract of streets from OSM.  Allow for selection within 5 meters to overcome situations where divided streets exist or original streets digitized into OSM may be slightly off.  (The purpose of making this data available at this time is to fill in missing streets.)
+1. Select streets that intersect with an extract of streets from OSM.  Allow for selection within 10 feet to overcome situations where divided streets exist or original streets digitized into OSM may be slightly off.  (The purpose of making this data available at this time is mostly to fill in missing streets.  The selection may show streets that doesn't share alignment between Dakota County data and OSM.)
 2. The selection is inverted and limited to local roads
 3. Exported to a shapefile with appropriate keys and values for OSM.
 4. Using JOSM, I opened the shp and saved it as OSM.
@@ -10,9 +10,9 @@ Let me know if anything is wonky.
 Happy download and edit.
 
 ## Downloads
-OSM file - [Street_201603211813_osm.zip] (http://github.com/DcjoeS/OSMStreetsDakotaCounty/tree/master/osm/Street_201603211813_osm.zip)
+OSM file - [Street_2016005111027_osm.zip] (http://github.com/DcjoeS/OSMStreetsDakotaCounty/tree/master/osm/Street_2016005111027_osm.zip)
 
-Shapefile - [Street_201603211813.zip] (http://github.com/DcjoeS/OSMStreetsDakotaCounty/tree/master/shp/Street_201603211813_osm.zip)
+Shapefile - [Street_2016005111027.zip] (http://github.com/DcjoeS/OSMStreetsDakotaCounty/tree/master/shp/Street_2016005111027.zip)
 
 ## WMS 2015 Aerial Photography
 Feel free to access Dakota County's 2015 Aerial Photography by adding a WMS to JOSM.  Not sure why it throws errors/warnings because it looks just fine.
