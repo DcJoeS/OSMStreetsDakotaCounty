@@ -10,9 +10,9 @@ Let me know if anything is wonky.
 Happy download and edit.
 
 ## Downloads
-OSM file - [Street_2016005111027_osm.zip] (http://github.com/DcjoeS/OSMStreetsDakotaCounty/tree/master/osm/Street_2016005111027_osm.zip)
+OSM file - [Street_2016005111027_osm.zip] (https://github.com/DcJoeS/OSMStreetsDakotaCounty/blob/master/osm/Street_201605111027_osm.zip)
 
-Shapefile - [Street_2016005111027.zip] (http://github.com/DcjoeS/OSMStreetsDakotaCounty/tree/master/shp/Street_2016005111027.zip)
+Shapefile - [Street_2016005111027.zip] (https://github.com/DcJoeS/OSMStreetsDakotaCounty/blob/master/shp/Street_201605111027.zip)
 
 ## WMS 2015 Aerial Photography
 Feel free to access Dakota County's 2015 Aerial Photography by adding a WMS to JOSM.  Not sure why it throws errors/warnings because it looks just fine.
