@@ -10,7 +10,7 @@ Let me know if anything is wonky.
 Happy download and edit.
 
 ## Downloads
-OSM file - [Street_016007261444_osm.zip] (https://github.com/DcJoeS/OSMStreetsDakotaCounty/blob/master/osm/Street_2016007261444_osm.zip)
+OSM file - [Street_016007261444_osm.zip] (https://github.com/DcJoeS/OSMStreetsDakotaCounty/blob/master/osm/Street_201607261444_osm.zip)
 
 Shapefile - [Street_016007261444.zip] (https://github.com/DcJoeS/OSMStreetsDakotaCounty/blob/master/shp/Street_201607261444.zip)
 
