@@ -10,13 +10,13 @@ Let me know if anything is wonky.
 Happy download and edit.
 
 ## Downloads
-OSM file - [Street_016007261444_osm.zip] (https://github.com/DcJoeS/OSMStreetsDakotaCounty/blob/master/osm/Street_201607261444_osm.zip)
+OSM file - [Street_201612161511_osm.zip] (https://github.com/DcJoeS/OSMStreetsDakotaCounty/blob/master/osm/Street_201612161511_osm.zip)
 
-Shapefile - [Street_016007261444.zip] (https://github.com/DcJoeS/OSMStreetsDakotaCounty/blob/master/shp/Street_201607261444.zip)
+Shapefile - [Street_201612161511.zip] (https://github.com/DcJoeS/OSMStreetsDakotaCounty/blob/master/shp/Street_201612161511.zip)
 
-## WMS 2015 Aerial Photography
-Feel free to access Dakota County's 2015 Aerial Photography by adding a WMS to JOSM.  Not sure why it throws errors/warnings because it looks just fine.
+## WMS 2016 Aerial Photography - new
+Feel free to access Dakota County's 2016 Aerial Photography by adding a WMS to JOSM.  Not sure why it throws errors/warnings because it looks just fine.
 
- http://gis2.co.dakota.mn.us/arcgis/services/AerialPhotography/2015AirPhotoLeafOff6Inch/ImageServer/WMSServer?request=GetCapabilities&service=WMS
+ http://gis2.co.dakota.mn.us/arcgis/services/AerialPhotography/2016AirPhotoLeafOff6Inch/ImageServer/WMSServer?request=GetCapabilities&service=WMS
 
 
