@@ -17,6 +17,6 @@ Shapefile - [Street_201702151621.zip] (https://github.com/DcJoeS/OSMStreetsDakot
 ## WMS 2016 Aerial Photography - new
 Feel free to access Dakota County's 2016 Aerial Photography by adding a WMS to JOSM.  Not sure why it throws errors/warnings because it looks just fine.
 
- http://gis2.co.dakota.mn.us/arcgis/services/AerialPhotography/2016AirPhotoLeafOff6Inch/ImageServer/WMSServer?request=GetCapabilities&service=WMS
+ https://gis2.co.dakota.mn.us/arcgis/services/AerialPhotography/2016AirPhotoLeafOff6Inch/ImageServer/WMSServer?request=GetCapabilities&service=WMS
 
 
